@@ -4,6 +4,7 @@
 * Assignment 2
 * Date: Fall 2025
 */
+package assignment2;
 import java.util.Scanner;
 public class Assignment02LucasWillemsen {
     public static void main(String[] args) {
@@ -34,3 +35,4 @@ public class Assignment02LucasWillemsen {
         scnr.close();
     }
 }
+
